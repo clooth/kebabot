@@ -1,0 +1,2 @@
+defmodule Kebabot do
+end
